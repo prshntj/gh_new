@@ -1,3 +1,6 @@
 dosa
 idly 
 sw
+dd
+tt
+ss
